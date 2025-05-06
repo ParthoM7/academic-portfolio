@@ -6,14 +6,26 @@ This is my academic portfolio, including CV, research interests, and teaching ma
 
 ## 📬 Contact Me
 
-<a href="https://www.imsc.res.in/partha_mukhopadhyay">
-  <img src="icons/house-solid.svg" alt="Home" width="24" height="24" style="vertical-align:middle;">
-</a>
-
-[![Home](icons/home-solid.svg)](https://www.imsc.res.in/partha_mukhopadhyay)
-[![Email](icons/envelope-solid.svg)](mailto:mukhopadhyay.res@gmail.com)
-[![Telegram](icons/telegram-brands.svg)](https://t.me/ParthoM7)
-[![LinkedIn](icons/linkedin-brands.svg)](https://www.linkedin.com/in/parthom7)
-[![YouTube](icons/youtube-brands.svg)](https://www.youtube.com/@ParthoM7)
-[![InspireHEP](icons/inspire.svg)](https://inspirehep.net/authors/996534)
-[![GitHub](icons/github-brands.svg)](https://github.com/ParthoM7)
+<p align="left" style="line-height: 0;">
+  <a href="https://www.imsc.res.in/partha_mukhopadhyay" title="Home">
+    <img src="icons/house-solid.svg" alt="Home" width="28" height="28" style="vertical-align:middle; margin-right:10px;" />
+  </a>
+  <a href="mailto:mukhopadhyay.res@gmail.com" title="Email">
+    <img src="icons/envelope-solid.svg" alt="Email" width="28" height="28" style="vertical-align:middle; margin-right:10px;" />
+  </a>
+  <a href="https://t.me/ParthoM7" title="Telegram">
+    <img src="icons/telegram-brands.svg" alt="Telegram" width="28" height="28" style="vertical-align:middle; margin-right:10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/parthom7" title="LinkedIn">
+    <img src="icons/linkedin-brands.svg" alt="LinkedIn" width="28" height="28" style="vertical-align:middle; margin-right:10px;" />
+  </a>
+  <a href="https://www.youtube.com/@ParthoM7" title="YouTube">
+    <img src="icons/youtube-brands.svg" alt="YouTube" width="28" height="28" style="vertical-align:middle; margin-right:10px;" />
+  </a>
+  <a href="https://inspirehep.net/authors/996534" title="InspireHEP">
+    <img src="icons/inspire.svg" alt="InspireHEP" width="28" height="28" style="vertical-align:middle; margin-right:10px;" />
+  </a>
+  <a href="https://github.com/ParthoM7" title="GitHub">
+    <img src="icons/github-brands.svg" alt="GitHub" width="28" height="28" style="vertical-align:middle;" />
+  </a>
+</p>

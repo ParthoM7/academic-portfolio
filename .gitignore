@@ -6,6 +6,7 @@
 
 # Allow only .tex and .pdf files
 !*.pdf
+!*.svg
 
 # Allow .gitignore and .gitattributes files themselves to be tracked
 !.gitignore

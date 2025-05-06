@@ -7,7 +7,7 @@ This is my academic portfolio, including CV, research interests, and teaching ma
 ## 📬 Contact Me
 
 <a href="https://www.imsc.res.in/partha_mukhopadhyay">
-  <img src="icons/home-solid.svg" alt="Home" width="24" height="24" style="vertical-align:middle;">
+  <img src="icons/house-solid.svg" alt="Home" width="24" height="24" style="vertical-align:middle;">
 </a>
 
 [![Home](icons/home-solid.svg)](https://www.imsc.res.in/partha_mukhopadhyay)

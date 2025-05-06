@@ -6,6 +6,10 @@ This is my academic portfolio, including CV, research interests, and teaching ma
 
 ## 📬 Contact Me
 
+<a href="https://www.imsc.res.in/partha_mukhopadhyay">
+  <img src="icons/home-solid.svg" alt="Home" width="24" height="24" style="vertical-align:middle;">
+</a>
+
 [![Home](icons/home-solid.svg)](https://www.imsc.res.in/partha_mukhopadhyay)
 [![Email](icons/envelope-solid.svg)](mailto:mukhopadhyay.res@gmail.com)
 [![Telegram](icons/telegram-brands.svg)](https://t.me/ParthoM7)

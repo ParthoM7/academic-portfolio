@@ -1,7 +1,7 @@
 # Academic Portfolio
 This is my academic portfolio, including CV, research interests, and teaching materials.
 
-## 📬 Contact Me
+## 📬 My Links!
 
 <p align="left">
   <a href="https://www.imsc.res.in/partha_mukhopadhyay" title="Home"><img src="icons/house-solid.svg" alt="Home" width="28" height="28"></a>&nbsp;&nbsp;

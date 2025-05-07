@@ -1,3 +1,6 @@
+> 📌 This is a highlighted note using a quote block.
+> It gets a gray bar on the left.
+
 # academic_portfolio
 This is my academic portfolio, including CV, research interests, and teaching materials.
 

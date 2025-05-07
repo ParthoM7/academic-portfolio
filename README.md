@@ -1,8 +1,5 @@
-# academic_portfolio
+# Academic Portfolio
 This is my academic portfolio, including CV, research interests, and teaching materials.
-
-⚠️ Note: This portfolio is a work in progress. Some documents, including research statements, are preliminary drafts and subject to revision.
-
 
 ## 📬 Contact Me
 
@@ -15,3 +12,8 @@ This is my academic portfolio, including CV, research interests, and teaching ma
   <a href="https://inspirehep.net/authors/996534" title="InspireHEP"><img src="icons/inspire.svg" alt="InspireHEP" width="28" height="28"></a>&nbsp;&nbsp;
   <a href="https://github.com/ParthoM7" title="GitHub"><img src="icons/github-brands.svg" alt="GitHub" width="28" height="28"></a>
 </p>
+
+<br>
+<br>
+
+⚠️ Note: This portfolio is a work in progress. Some documents, including research statements, are preliminary drafts and subject to revision.

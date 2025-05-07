@@ -8,7 +8,7 @@ This is my academic portfolio, including CV, research interests, and teaching ma
 
 <p align="left" style="line-height: 0;">
   <a href="https://www.imsc.res.in/partha_mukhopadhyay" title="Home">
-    <img src="icons/house-solid.svg" alt="Home" width="28" height="28" style="vertical-align:middle; color:inherit; margin-right:80px;" />
+    <img src="icons/house-solid.svg" alt="Home" width="28" height="28" style="vertical-align:middle; color:currentColor; margin-right:80px;" />
   </a>
   <a href="mailto:mukhopadhyay.res@gmail.com" title="Email">
     <img src="icons/envelope-solid.svg" alt="Email" width="28" height="28" style="vertical-align:middle; color:inherit; margin-right:80px;" />

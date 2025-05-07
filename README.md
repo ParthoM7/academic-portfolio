@@ -1,6 +1,3 @@
-> 📌 This is a highlighted note using a quote block.
-> It gets a gray bar on the left.
-
 # academic_portfolio
 This is my academic portfolio, including CV, research interests, and teaching materials.
 
@@ -11,24 +8,24 @@ This is my academic portfolio, including CV, research interests, and teaching ma
 
 <p align="left" style="line-height: 0;">
   <a href="https://www.imsc.res.in/partha_mukhopadhyay" title="Home">
-    <img src="icons/house-solid.svg" alt="Home" width="28" height="28" style="vertical-align:middle; margin-right:80px;" />
+    <img src="icons/house-solid.svg" alt="Home" width="28" height="28" style="vertical-align:middle; color:inherit; margin-right:80px;" />
   </a>
   <a href="mailto:mukhopadhyay.res@gmail.com" title="Email">
-    <img src="icons/envelope-solid.svg" alt="Email" width="28" height="28" style="vertical-align:middle; margin-right:80px;" />
+    <img src="icons/envelope-solid.svg" alt="Email" width="28" height="28" style="vertical-align:middle; color:inherit; margin-right:80px;" />
   </a>
   <a href="https://t.me/ParthoM7" title="Telegram">
-    <img src="icons/telegram-brands.svg" alt="Telegram" width="28" height="28" style="vertical-align:middle; margin-right:80px;" />
+    <img src="icons/telegram-brands.svg" alt="Telegram" width="28" height="28" style="vertical-align:middle; color:inherit; margin-right:80px;" />
   </a>
   <a href="https://www.linkedin.com/in/parthom7" title="LinkedIn">
-    <img src="icons/linkedin-brands.svg" alt="LinkedIn" width="28" height="28" style="vertical-align:middle; margin-right:80px;" />
+    <img src="icons/linkedin-brands.svg" alt="LinkedIn" width="28" height="28" style="vertical-align:middle; color:inherit; margin-right:80px;" />
   </a>
   <a href="https://www.youtube.com/@ParthoM7" title="YouTube">
-    <img src="icons/youtube-brands.svg" alt="YouTube" width="28" height="28" style="vertical-align:middle; margin-right:80px;" />
+    <img src="icons/youtube-brands.svg" alt="YouTube" width="28" height="28" style="vertical-align:middle; color:inherit; margin-right:80px;" />
   </a>
   <a href="https://inspirehep.net/authors/996534" title="InspireHEP">
-    <img src="icons/inspire.svg" alt="InspireHEP" width="28" height="28" style="vertical-align:middle; margin-right:80px;" />
+    <img src="icons/inspire.svg" alt="InspireHEP" width="28" height="28" style="vertical-align:middle; color:inherit; margin-right:80px;" />
   </a>
   <a href="https://github.com/ParthoM7" title="GitHub">
-    <img src="icons/github-brands.svg" alt="GitHub" width="28" height="28" style="vertical-align:middle;" />
+    <img src="icons/github-brands.svg" alt="GitHub" width="28" height="28" style="vertical-align:middle; color:inherit;" />
   </a>
 </p>

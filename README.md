@@ -1,6 +1,8 @@
 # Academic Portfolio
 This is my academic portfolio, including CV, research interests, and teaching materials.
 
+I'm a theoretical physicist currently working at the Institute of Mathematical Sciences, Chennai, India. I have 25+ years of experience in research and teaching, specializing in string theory, quantum field theory and gravity. I also have strong interests in exploring connections between quantum mechanics, gravity and statistical analysis. Further details regarding my research and teaching can be found at some of the following links:
+
 ## 📬 My Contacts and Links!
 
 <p align="left">
